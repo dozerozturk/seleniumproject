@@ -14,6 +14,8 @@ public class First_Practice {
         System.out.println(driver.getTitle());
         driver.navigate().to("https://www.facebook.com");
         System.out.println(driver.getTitle());
+
+
     }
 
 }
